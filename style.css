@@ -1,0 +1,56 @@
+
+
+.navbar a{
+	color:white;
+	
+}
+
+.nav li a:hover{
+    background-color:orange; 
+    color:black; 
+}
+
+.navbar-custom{
+	position:absolute;
+	width:100%;
+}
+
+
+header{
+	
+	height:600px;
+	padding:120px 50px;
+	color:white;
+	
+}
+
+img:hover{
+ opacity: 0.5;
+}
+
+.posts{
+	border-bottom:1px solid black;
+}
+
+.posts a{
+	color:black;
+}
+
+
+.posts a:hover{
+	color:brown;
+}
+
+.butt{
+	padding:50px 0;
+	font-size:20px;
+}
+
+.nav-center{
+	float:none;
+	display:table; 
+	table-layout:fixed; 
+	margin:0 auto;
+}
+
+
